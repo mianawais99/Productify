@@ -1,0 +1,6 @@
+@Productify.API_HostAddress = http://localhost:5109
+
+GET {{Productify.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
