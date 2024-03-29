@@ -35,8 +35,6 @@ namespace Productify.API.Controllers
         ///        "password": "12345",
         ///        "addressId": 0,
         ///        "address": {
-        ///          "addedDate": "2024-03-29T19:29:47.525Z",
-        ///          "modifiedDate": "2024-03-29T19:29:47.525Z",
         ///          "street": "New Street",
         ///          "city": "Lahore",
         ///          "state": "Punjab",
